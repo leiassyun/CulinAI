@@ -1,37 +1,61 @@
-## Getting started with Next.js and Replicate
+# CulinAI - Saved Recipes
 
-This is a [Next.js](https://nextjs.org/) template project that's preconfigured to work with Replicate's API.
+CulinAI is a web application designed to help users save and manage their favorite recipes. This README provides an overview of the project, setup instructions, and other relevant information.
 
-You can use this as a quick jumping-off point to build a web app using Replicate's API, or you can recreate this codebase from scratch by following the guide at [replicate.com/docs/get-started/nextjs](https://replicate.com/docs/get-started/nextjs)
+## Table of Contents
 
-## Noteworthy files
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-- [pages/index.js](pages/index.js) - The React frontend that renders the home page in the browser
-- [pages/api/predictions/index.js](pages/api/predictions/index.js) - The backend API endpoint that calls Replicate's API to create a prediction
-- [pages/api/predictions/[id].js](pages/api/predictions/[id].js) - The backend API endpoint that calls Replicate's API to get the prediction result
+## Project Overview
+
+CulinAI is a user-friendly platform that allows users to save and organize their recipes. The application is built using React for the frontend and integrates a CSS module for styling. It provides an intuitive interface for users to view their saved recipes with detailed images and ratings.
+
+## Features
+
+- Save and organize recipes
+- Display recipes with images, titles, and ratings
+- Responsive design for various screen sizes
+- Easy-to-navigate interface
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/culinai-saved-recipes.git
+   cd culinai-saved-recipes
+   ```
+
+2. **Install dependencies:**
+Make sure you have Node.js installed. Then run:
+
+ ```bash
+npm install
+pip install -r requirements.txt
+
+```
+3. **Run the development server:**
+
+```bash
+npm start
+```
 
 ## Usage
+- Open the Homepage: Navigate to http://localhost:3000 in your web browser.
+- Upload an Image: Use the upload feature to submit an image of your ingredients.
+- Generate a Recipe: Let the AI process the image and provide a custom recipe.
+- Save and Explore: Save your favorite recipes and try new ones by uploading different images.
 
-Install dependencies:
+## Contact
+For any questions or inquiries, please contact:
 
-```console
-npm install
-```
-
-Add your [Replicate API token](https://replicate.com/account#token) to `.env.local`:
-
-```
-REPLICATE_API_TOKEN=<your-token-here>
-```
-
-Run the development server:
-
-```console
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser.
-
-For detailed instructions on how to create and use this template, see [replicate.com/docs/get-started/nextjs](https://replicate.com/docs/get-started/nextjs)
-
-<img width="707" alt="iguana" src="https://github.com/replicate/getting-started-nextjs/assets/14149230/5d1933ec-a083-4de6-90e2-7552e33e4a85">
+- Name: Leia Yun
+- Email: sy3544@nyu.edu
+- GitHub: leiassyun
+  
+Thank you for using CulinAI! We hope you enjoy saving and organizing your recipes.
