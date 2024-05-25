@@ -34,7 +34,7 @@ To set up the project locally, follow these steps:
 2. **Install dependencies:**
 Make sure you have Node.js installed. Then run:
 
- ```bash
+    ```bash
    npm install
    pip install -r requirements.txt
    
