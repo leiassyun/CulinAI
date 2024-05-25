@@ -35,15 +35,15 @@ To set up the project locally, follow these steps:
 Make sure you have Node.js installed. Then run:
 
  ```bash
-npm install
-pip install -r requirements.txt
-
-```
+   npm install
+   pip install -r requirements.txt
+   
+   ```
 3. **Run the development server:**
 
-```bash
-npm start
-```
+   ```bash
+   npm start
+   ```
 
 ## Usage
 - Open the Homepage: Navigate to http://localhost:3000 in your web browser.
