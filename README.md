@@ -1,6 +1,7 @@
 # CulinAI 
 
-CulinAI is an innovative AI-powered platform that helps users generate recipes by uploading photos of their fridge or food items. It is designed for those who want to try new recipes, reduce food waste, or figure out what to cook with the groceries they already have.
+CulinAI is an innovative AI-powered platform that helps users generate recipes by uploading photos of their fridge or food items. It is designed for those who want to try new recipes, reduce food waste, or figure out what to cook with the groceries they already have. This user-friendly platform allows users to save and organize their recipes. The application is built using JavaScript and CSS for the frontend and integrates the LLaVA model for integrating language and vision, and SDXL-Turbo for enhanced image generation via API integration with the Replicate platform.
+
 
 ## Purpose
 CulinAI aims to:
@@ -13,9 +14,6 @@ CulinAI aims to:
 
 We wanted to explore the concept of “cooking with nothing.” CulinAI provides an answer to the question, “What should I eat today?” without requiring users to waste food or purchase additional ingredients.
 
-## Project Overview
-
-CulinAI is a user-friendly platform that allows users to save and organize their recipes. The application is built using React for the frontend and integrates a CSS module for styling. It provides an intuitive interface for users to view their saved recipes with detailed images and ratings.
 
 ## Features
 
