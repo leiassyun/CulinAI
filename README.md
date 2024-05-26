@@ -22,6 +22,12 @@ We wanted to explore the concept of “cooking with nothing.” CulinAI provides
 - Responsive design for various screen sizes
 - Easy-to-navigate interface
 
+
+https://github.com/leiassyun/CulinAI/assets/121903773/5aa7b5b6-6a89-4afa-9e2e-25a67e7d9075
+
+
+
+
 ## Installation
 
 To set up the project locally, follow these steps:
