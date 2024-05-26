@@ -23,8 +23,8 @@ We wanted to explore the concept of “cooking with nothing.” CulinAI provides
 - Easy-to-navigate interface
 
 
-https://github.com/leiassyun/CulinAI/assets/121903773/5aa7b5b6-6a89-4afa-9e2e-25a67e7d9075
 
+https://github.com/leiassyun/CulinAI/assets/121903773/70178ea6-1bd3-4e05-ad36-442acafb9a8e
 
 
 
