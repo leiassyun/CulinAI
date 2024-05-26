@@ -6,9 +6,11 @@ CulinAI is an innovative AI-powered platform that helps users generate recipes b
 CulinAI aims to:
 - Inspire users to try new recipes.
 - Reduce food waste by suggesting recipes based on available ingredients.
--Help users utilize their existing groceries efficiently.
+- Help users utilize their existing groceries efficiently.
+
 
 **Why CulinAI?**
+
 We wanted to explore the concept of “cooking with nothing.” CulinAI provides an answer to the question, “What should I eat today?” without requiring users to waste food or purchase additional ingredients.
 
 ## Project Overview
