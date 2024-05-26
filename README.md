@@ -1,14 +1,15 @@
-# CulinAI - Saved Recipes
+# CulinAI 
 
-CulinAI is a web application designed to help users save and manage their favorite recipes. 
+CulinAI is an innovative AI-powered platform that helps users generate recipes by uploading photos of their fridge or food items. It is designed for those who want to try new recipes, reduce food waste, or figure out what to cook with the groceries they already have.
 
-## Table of Contents
+## Purpose
+CulinAI aims to:
+- Inspire users to try new recipes.
+- Reduce food waste by suggesting recipes based on available ingredients.
+-Help users utilize their existing groceries efficiently.
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
+**Why CulinAI?**
+We wanted to explore the concept of “cooking with nothing.” CulinAI provides an answer to the question, “What should I eat today?” without requiring users to waste food or purchase additional ingredients.
 
 ## Project Overview
 
