@@ -1,6 +1,6 @@
 # CulinAI - Saved Recipes
 
-CulinAI is a web application designed to help users save and manage their favorite recipes. This README provides an overview of the project, setup instructions, and other relevant information.
+CulinAI is a web application designed to help users save and manage their favorite recipes. 
 
 ## Table of Contents
 
